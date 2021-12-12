@@ -1,0 +1,13 @@
+:-webkit-full-screen #main p {
+  background: #3880ff;
+}
+
+:-ms-fullscreen #main p {
+  background: #3880ff;
+}
+
+:fullscreen #main p {
+  background: #3880ff;
+}
+
+/*# sourceMappingURL=index.css.map */

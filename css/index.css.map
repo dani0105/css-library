@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB","file":"index.css","sourcesContent":[":-webkit-full-screen #main p {\n  background: #3880ff;\n}\n\n:-ms-fullscreen #main p {\n  background: #3880ff;\n}\n\n:fullscreen #main p {\n  background: #3880ff;\n}\n\n/*# sourceMappingURL=index.css.map */\n"]}
