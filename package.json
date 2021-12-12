@@ -1,5 +1,5 @@
 {
-  "name": "css-library",
+  "name": "@dani0105/css-library",
   "version": "1.0.0",
   "description": "Librery de css simple",
   "main": "index.scss",
@@ -20,5 +20,11 @@
     "node-sass": "^4.14.1",
     "postcss-cli": "^7.1.1",
     "rimraf": "^3.0.2"
+  },
+  "repository": {
+    "url": "https://github.com/dani0105/css-library.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
